@@ -1,6 +1,6 @@
-## Mastering JavaScript Step-by-Step
+## JavaScript from Beginner to Master Tutorial Series
 
-This repository contains all the code for the "Mastering JavaScript Step-by-Step" blog series on dev.to. It serves as a comprehensive resource for learning JavaScript, covering various topics in a progressive manner.
+This repository contains all the code for the `JavaScript from Beginner to Master Tutorial Series`  blog series on dev.to. It serves as a comprehensive resource for learning JavaScript, covering various topics in a progressive manner.
 
 ## Usage
 
