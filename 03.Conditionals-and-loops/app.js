@@ -86,6 +86,16 @@ do {
   TK++;
 } while (TK < 10);
 
+//   Ternary Operator in JavaScript
 
+//  Ternary Operator example 1
+let ag = 18;
+let isAdult = ag >= 18 ? "Yes" : "No";
+console.log(isAdult); // Yes
+
+//  Ternary Operator example 2
+let VoteAge = 17;
+let canVote = VoteAge < 18 ? " you cannot  vote  " : " You can vote ";
+console.log(canVote); // You   cannot  vote
 
 // THANK YOU FOR READING THIS CODE
