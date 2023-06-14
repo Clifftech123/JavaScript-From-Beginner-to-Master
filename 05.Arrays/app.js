@@ -1,0 +1,1 @@
+console.log('05.Arrays');
